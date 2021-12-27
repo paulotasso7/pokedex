@@ -1,2 +1,2 @@
 # pokedex
-trying i'm tryyyying
+arquivo generico do react, usado apenas para treinar git
